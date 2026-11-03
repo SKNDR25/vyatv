@@ -1,6 +1,6 @@
 {
-  "version_code": 2,
-  "version_name": "1.1.0",
-  "changelog": "- Tampilan responsif Mode Portrait untuk Smartphone\n- 11 Kategori baru (K-Drama, Anime, Film Indonesia, dsb)\n- Fitur Periksa Pembaruan Otomatis (In-App Update)\n- Integrasi Saweria QRIS resmi (vyatv)\n- Navigasi cover film & pencarian TV remote super lancar",
-  "apk_url": "https://github.com/SKNDR25/vyatv/releases/latest/download/app-armeabi-v7a-release.apk"
+  "version_code": 3,
+  "version_name": "1.2.0",
+  "changelog": "- Tampilan antarmuka baru lebih cepat & halus\n- Penambahan kategori spesial\n- Peningkatan performa pemutar video streaming\n- Perbaikan stabilitas aplikasi",
+  "apk_url": "https://github.com/SKNDR25/vyatv/releases/latest/download/app-arm64-v8a-release.apk"
 }
